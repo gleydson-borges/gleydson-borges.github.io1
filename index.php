@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="css/main.css" />
 <link rel="stylesheet" href="css/magic.min.css" />
 <link rel="stylesheet" href="css/bootstrap.css" />
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 <body>
 <div class="container">
     <div class="col-md-12 content">
@@ -19,7 +20,7 @@
                         <p>Desenvolvimento de sistemas. <br> Melhorias, agilidade e produtividade para sua empresa.</p>
                     </div>
                 </div>
-                <div class="box-overlay magictime rotate" data-hover="puffOut" data-return="puffIn">
+                <div class="box-overlay magictime slideUpRetourn" data-hover="slideUp" data-return="slideUpRetourn">
                     <img src="img/logo_v1.png" class="img img-responsive" alt="Logo Kodando Sistemas   ">
                 </div>
 
